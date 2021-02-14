@@ -10,6 +10,7 @@
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif; 
     font-weight: 550;
     font-weight: 600;
+    color: #1b222c;
 }
 
 .vh-100 {
@@ -24,8 +25,17 @@
     color: #fff;
 }
 
+.bg-dark-red {
+    background-color: #531516;
+}
+
 .bg-dark-pink {
     background-color: #d5008f;
+}
+
+.ph0 {
+    padding-left: 0rem;
+    padding-right: 0rem;
 }
 
 .ph3 {
@@ -53,8 +63,8 @@
 
 @media screen and (min-width: 60em) {
     .ph4-l {
-        padding-left: 2rem;
-        padding-right: 2rem;
+        padding-left: 0rem;
+        padding-right: 0rem;
     }
 
     .f-subheadline-l {
