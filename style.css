@@ -45,16 +45,6 @@ body {
     background-color: #d5008f;
 }
 
-.ph0 {
-    padding-left: 0rem;
-    padding-right: 0rem;
-}
-
-.ph3 {
-    padding-left: 0rem;
-    padding-right: 0rem;
-}
-
 .tc {
     text-align: center;
 }
@@ -74,10 +64,6 @@ body {
 }
 
 @media screen and (min-width: 60em) {
-    .ph4-l {
-        padding-left: 0rem;
-        padding-right: 0rem;
-    }
 
     .f-subheadline-l {
         font-size: 5rem;
