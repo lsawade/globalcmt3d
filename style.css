@@ -1,8 +1,3 @@
-body {
-   font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif; 
-   font-weight: 550;
-}
-
 .dt {
     display: table;
 }
@@ -12,6 +7,8 @@ body {
 }
 
 .fw6 {
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif; 
+    font-weight: 550;
     font-weight: 600;
 }
 
