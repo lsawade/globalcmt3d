@@ -9,7 +9,6 @@
 .fw6 {
     font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Helvetica', 'Arial', 'Lucida Grande', sans-serif; 
     font-weight: 550;
-    font-weight: 600;
     color: #661b1c;
 }
 
@@ -22,7 +21,7 @@
 }
 
 .gray {
-   color: ##1b222c;
+   color: #1b222c;
 }
 
 .white {
